@@ -2,7 +2,7 @@
 import React from "react";
 import { render } from "react-dom";
 import { AppContainer } from "react-hot-loader";
-import configureStore, { history } from "./Redux/store/configureStore";
+import configureStore, { history } from "./redux/store/configureStore";
 
 import Root from "./Root";
 const store = configureStore();

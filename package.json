@@ -69,6 +69,7 @@
     "eslint-plugin-react": "7.14.3",
     "eslint-watch": "6.0.0",
     "file-loader": "4.1.0",
+    "formik": "1.5.8",
     "hard-source-webpack-plugin": "0.13.1",
     "history": "4.9.0",
     "html-webpack-plugin": "3.2.0",
@@ -93,10 +94,11 @@
     "sass-loader": "7.1.0",
     "style-loader": "0.23.1",
     "url-loader": "2.1.0",
-    "webpack": "4.37.0",
+    "webpack": "4.38.0",
     "webpack-bundle-analyzer": "3.3.2",
     "webpack-dev-middleware": "3.7.0",
-    "webpack-hot-middleware": "2.25.0"
+    "webpack-hot-middleware": "2.25.0",
+    "yup": "0.27.0"
   },
   "keywords": [],
   "repository": {
