@@ -72,7 +72,7 @@
     "formik": "1.5.8",
     "hard-source-webpack-plugin": "0.13.1",
     "history": "4.9.0",
-    "html-webpack-plugin": "3.2.0",
+    "html-webpack-plugin": "5.5.1",
     "identity-obj-proxy": "3.0.0",
     "jest": "24.8.0",
     "jest-cli": "24.8.0",
